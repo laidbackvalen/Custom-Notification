@@ -7,5 +7,5 @@
 <br>
 <br>
 <br>
-<h2>Inbox Style Notification Examples</h2>
+<h2>Inbox Style Notification Example</h2>
 <img src="https://github.com/laidbackvalen/Custom-Notification/assets/91414069/c90bb84f-4514-4f22-9233-2132f6f78bb8" style="width:300px; height : 600px;"/>
